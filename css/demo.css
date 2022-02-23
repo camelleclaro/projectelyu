@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+.name {
+    color: chocolate;
+}
+.hex {
+    /* #RRGGBB */
+    color: #35858B;
+}
+.hext {
+    /* #RRGGBBAA */
+    color: #46111150;
+}
+.rgb {
+    /* RGB - red green blue */
+    color: rgb(77, 63, 206);
+}
+.rgba {
+    /* red green blue alpha */
+    color: rgba(0, 0, 0, 0.5);
+}
+h2 {
+    font-family: 'Shizuru', cursive;
+}
